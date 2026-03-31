@@ -1,6 +1,9 @@
 # Ghana-Household-Data-Visualization
 This project transforms complex Ghana National Household Registry (GNHR) data into clear and engaging visual insights.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Ghana-Household-Data-Visualization/main/gnhr-central.png" width="100%" />
+</p>
 
 ## Executive Summary:
 Communicating household survey data to nontechnical stakeholders remains a challenge in driving informed decision-making and public awareness. Within the Ghana National Household Registry (GNHR) Analytics Team, my primary role was to translate data visualizations developed by senior analysts into clear, engaging, and publication ready infographics for stakeholders, the media, and district level decision makers.
@@ -13,6 +16,9 @@ I recommend that analytics initiatives integrate visual communication workflows,
 The Ghana National Household Registry was collecting large amounts of household data across regions, covering demographics, poverty profile, education, health, access to local services, sanitation, and livelihood & jobs. However, this data was not easy for stakeholders, district leaders, the media, and the public to understand.
 Even though analysts had developed detailed charts and visualizations, many decision makers still struggled to quickly grasp the key insights needed for planning and interventions. Without clear and engaging communication, important findings risked being overlooked or underutilized.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Ghana-Household-Data-Visualization/main/gnhr-oti.png" width="100%" />
+</p>
 
 How can complex household data and technical visualizations be transformed into simple, clear, and engaging visuals that help stakeholders understand the insights and take informed action?
 
@@ -48,6 +54,10 @@ Final infographics were prepared for both print and digital formats, ensuring th
 *	Ensured accuracy and consistency in all visual outputs. 
 *	Prepared infographics suitable for both digital distribution and print media.
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Ghana-Household-Data-Visualization/main/gnhr-volta.png" width="100%" />
+</p>
 
 
 ## Results & Business Recommendations:
