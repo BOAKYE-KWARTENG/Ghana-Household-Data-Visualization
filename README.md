@@ -14,14 +14,11 @@ I recommend that analytics initiatives integrate visual communication workflows,
 
 ## Business Problem:
 The Ghana National Household Registry was collecting large amounts of household data across regions, covering demographics, poverty profile, education, health, access to local services, sanitation, and livelihood & jobs. However, this data was not easy for stakeholders, district leaders, the media, and the public to understand.
-Even though analysts had developed detailed charts and visualizations, many decision makers still struggled to quickly grasp the key insights needed for planning and interventions. Without clear and engaging communication, important findings risked being overlooked or underutilized.
+Even though analysts had developed detailed charts and visualizations, many decision makers still struggled to quickly grasp the key insights needed for planning and interventions. Without clear and engaging communication, important findings risked being overlooked or underutilized. How can complex household data and technical visualizations be transformed into simple, clear, and engaging visuals that help stakeholders understand the insights and take informed action?
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Ghana-Household-Data-Visualization/main/gnhr-oti.png" width="100%" />
 </p>
-
-How can complex household data and technical visualizations be transformed into simple, clear, and engaging visuals that help stakeholders understand the insights and take informed action?
-
 
 
 ## Methodology:
