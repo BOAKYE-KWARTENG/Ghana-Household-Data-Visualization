@@ -1,5 +1,5 @@
 # Ghana-Household-Data-Visualization
-This project transforms complex Ghana National Household Registry (GNHR) data into clear and engaging visual insights.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BOAKYE-KWARTENG/Ghana-Household-Data-Visualization/main/gnhr-central.png" width="100%" />
